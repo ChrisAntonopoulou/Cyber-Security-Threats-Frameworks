@@ -21,6 +21,7 @@ and technical areas relating to cyber security, which may need further considera
 or research activity to allow the service to succeed and develop.
 
 **Section A**
+
 A structured risk assessment and management plan conforming to an appropriate
 recognised industry standard or methodology. You must state which standard or
 methodology you have applied and why, by giving examples of how you have applied
@@ -28,9 +29,11 @@ it at each stage. You must also clearly state any assumptions you have made abou
 the proposed service or the outcomes from the scenario information provided.
 
 **Section B** 
+
 A threat analysis related to two identified security issues that you believe may affect the service, along with recommendations for how to resolve those issues.
 
 **Section C**
+
 A description of any legal, ethical and technical issues, including those from recent or current research, relating to cyber security that you recommend that the company management should consider for further work or inclusion in the service, along with an explanation of why you believe these areas merit such consideration.
 
 *Total word count: 3000 words*
